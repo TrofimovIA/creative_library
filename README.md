@@ -4,7 +4,7 @@
 
 Наш целевой показатель Cost of Delivery - 550.
 
-Фрагмент можно посмотреть [здесь](https://github.com/TrofimovIA/creative_library/blob/main/Creative%20Library%201%20-%20Creatives%20v2.pdf).
+Фрагмент датасета можно посмотреть [здесь](https://github.com/TrofimovIA/creative_library/blob/main/Creative%20Library%201%20-%20Creatives%20v2.pdf).
 
 ## Задача
 
